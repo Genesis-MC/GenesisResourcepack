@@ -1,0 +1,16 @@
+{
+    "providers": [
+	{
+            "type": "bitmap",
+            "file": "genesis:font/rarities.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "\u0041",
+                "\u0042",
+                "\u0043",
+                "\u0000"
+            ]
+        }
+    ]
+}
