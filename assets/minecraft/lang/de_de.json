@@ -54,12 +54,5 @@
   "genesis.stats.wrapper.ability_haste.1": "\u10d0\ub009%s\ua004",
   "genesis.stats.wrapper.ability_haste.2": "\u10d1\ub015%s\ua004",
   "genesis.stats.wrapper.ability_haste.3": "\u10d2\ub021%s\ua004",
-  "genesis.stats.wrapper.ability_haste.4": "\u10d3\ub027%s\ua004",
-  "genesis.notification.profession.levelup.alchemy": "Leveled up to alchemy level %s! Reaching the next level will require %s alchemy experience.",
-  "genesis.notification.profession.levelup.artificing": "Leveled up to artificing level %s! Reaching the next level will require %s artificing experience.",
-  "genesis.notification.profession.levelup.cooking": "Leveled up to cooking level %s! Reaching the next level will require %s cooking experience.",
-  "genesis.notification.profession.levelup.exorcism": "Leveled up to exorcism level %s! Reaching the next level will require %s exorcism experience.",
-  "genesis.notification.profession.levelup.farming": "Leveled up to farming level %s! Reaching the next level will require %s farming experience.",
-  "genesis.notification.profession.levelup.mineralogy": "Leveled up to mineralogy level %s! Reaching the next level will require %s mineralogy experience.",
-  "genesis.notification.profession.levelup.mycology": "Leveled up to mycology level %s! Reaching the next level will require %s mycology experience."
+  "genesis.stats.wrapper.ability_haste.4": "\u10d3\ub027%s\ua004"
 }
