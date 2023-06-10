@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/sunflower_front"
+  },
+    "overrides": [
+        {"predicate":{"custom_model_data":1},"model":"block/genesis/crops/foo/0"},
+        {"predicate":{"custom_model_data":2},"model":"block/genesis/crops/foo/1"},
+        {"predicate":{"custom_model_data":3},"model":"block/genesis/crops/foo/2"},
+        {"predicate":{"custom_model_data":4},"model":"block/genesis/crops/foo/3"},
+        {"predicate":{"custom_model_data":5},"model":"block/genesis/crops/foo/4"},
+        {"predicate":{"custom_model_data":6},"model":"block/genesis/crops/foo/5"},
+        {"predicate":{"custom_model_data":7},"model":"block/genesis/crops/foo/6"},
+        {"predicate":{"custom_model_data":8},"model":"block/genesis/crops/foo/7"},
+        {"predicate":{"custom_model_data":9},"model":"block/genesis/crops/bar/0"},
+        {"predicate":{"custom_model_data":10},"model":"block/genesis/crops/bar/1"},
+        {"predicate":{"custom_model_data":11},"model":"block/genesis/crops/bar/2"},
+        {"predicate":{"custom_model_data":12},"model":"block/genesis/crops/bar/3"},
+        {"predicate":{"custom_model_data":13},"model":"block/genesis/crops/bar/4"},
+        {"predicate":{"custom_model_data":14},"model":"block/genesis/crops/bar/5"},
+        {"predicate":{"custom_model_data":15},"model":"block/genesis/crops/bar/6"},
+        {"predicate":{"custom_model_data":16},"model":"block/genesis/crops/bar/7"}
+    ]
+}
