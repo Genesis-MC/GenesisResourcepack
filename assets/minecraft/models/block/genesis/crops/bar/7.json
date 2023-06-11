@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/genesis/crops/base_8sprite/7",
+  "textures": {
+    "crop": "genesis:block/crops/bar"
+  }
+}
