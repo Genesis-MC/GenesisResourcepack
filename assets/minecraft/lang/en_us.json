@@ -62,7 +62,6 @@
   "genesis.notification.profession.levelup.farming": "Leveled up to farming level %s! Reaching the next level will require %s farming experience.",
   "genesis.notification.profession.levelup.mineralogy": "Leveled up to mineralogy level %s! Reaching the next level will require %s mineralogy experience.",
   "genesis.notification.profession.levelup.mycology": "Leveled up to mycology level %s! Reaching the next level will require %s mycology experience.",
-  "genesis.notification.profession.levelup.mycology": "Leveled up to mycology level %s! Reaching the next level will require %s mycology experience.",
   "genesis.menu.amulet.main_page.profession_levels": "Profession Levels",
   "genesis.menu.amulet.main_page.biome_info": "Biome Info",
   "genesis.menu.amulet.main_page.stats_descriptions": "Stats Descriptions",
