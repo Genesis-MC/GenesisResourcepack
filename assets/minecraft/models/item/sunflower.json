@@ -15,6 +15,11 @@
         {"predicate":{"custom_model_data":9},"model":"block/genesis/crops/bar/0"},
         {"predicate":{"custom_model_data":10},"model":"block/genesis/crops/bar/1"},
         {"predicate":{"custom_model_data":11},"model":"block/genesis/crops/bar/2"},
-        {"predicate":{"custom_model_data":12},"model":"block/genesis/crops/bar/3"}
+        {"predicate":{"custom_model_data":12},"model":"block/genesis/crops/bar/3"},
+        {"predicate":{"custom_model_data":13},"model":"block/genesis/crops/heartbeet/0"},
+        {"predicate":{"custom_model_data":14},"model":"block/genesis/crops/heartbeet/1"},
+        {"predicate":{"custom_model_data":15},"model":"block/genesis/crops/heartbeet/2"},
+        {"predicate":{"custom_model_data":16},"model":"block/genesis/crops/heartbeet/3"},
+        {"predicate":{"custom_model_data":17},"model":"block/genesis/crops/heartbeet/4"}
     ]
 }

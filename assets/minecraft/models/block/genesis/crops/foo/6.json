@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/genesis/crops/base_8sprite/6",
+  "parent": "minecraft:block/genesis/crops/template_8sprite_cross/6",
   "textures": {
     "crop": "genesis:block/crops/foo"
   }

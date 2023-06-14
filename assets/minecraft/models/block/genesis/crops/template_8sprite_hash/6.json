@@ -28,18 +28,18 @@
       "faces": {
         "north": {
           "uv": [
-            12,
             8,
-            16,
+            8,
+            12,
             16
           ],
           "texture": "#crop"
         },
         "south": {
           "uv": [
-            16,
-            8,
             12,
+            8,
+            8,
             16
           ],
           "texture": "#crop"
@@ -70,18 +70,18 @@
       "faces": {
         "north": {
           "uv": [
-            16,
-            8,
             12,
+            8,
+            8,
             16
           ],
           "texture": "#crop"
         },
         "south": {
           "uv": [
-            12,
             8,
-            16,
+            8,
+            12,
             16
           ],
           "texture": "#crop"
@@ -93,6 +93,48 @@
         0,
         -1,
         4
+      ],
+      "to": [
+        16,
+        31,
+        4
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": -45
+      },
+      "shade": false,
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            8,
+            12,
+            16
+          ],
+          "texture": "#crop"
+        },
+        "south": {
+          "uv": [
+            12,
+            8,
+            8,
+            16
+          ],
+          "texture": "#crop"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        -1,
+        12
       ],
       "to": [
         16,
@@ -114,58 +156,16 @@
           "uv": [
             12,
             8,
-            16,
+            8,
             16
           ],
           "texture": "#crop"
         },
         "south": {
           "uv": [
-            16,
+            8,
             8,
             12,
-            16
-          ],
-          "texture": "#crop"
-        }
-      }
-    },
-    {
-      "from": [
-        0,
-        -1,
-        12
-      ],
-      "to": [
-        16,
-        31,
-        4
-      ],
-      "rotation": {
-        "origin": [
-          8,
-          8,
-          8
-        ],
-        "axis": "y",
-        "angle": -45
-      },
-      "shade": false,
-      "faces": {
-        "north": {
-          "uv": [
-            16,
-            8,
-            12,
-            16
-          ],
-          "texture": "#crop"
-        },
-        "south": {
-          "uv": [
-            12,
-            8,
-            16,
             16
           ],
           "texture": "#crop"
@@ -175,23 +175,6 @@
   ],
   "display": {
     "fixed": {
-      "rotation": [
-        0,
-        45,
-        0
-      ],
-      "translation": [
-        0,
-        0,
-        0
-      ],
-      "scale": [
-        1,
-        1,
-        1
-      ]
-    },
-    "gui": {
       "rotation": [
         0,
         45,

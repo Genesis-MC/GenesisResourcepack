@@ -28,19 +28,19 @@
       "faces": {
         "north": {
           "uv": [
+            4,
             0,
             8,
-            4,
-            16
+            8
           ],
           "texture": "#crop"
         },
         "south": {
           "uv": [
-            4,
             8,
             0,
-            16
+            4,
+            8
           ],
           "texture": "#crop"
         }
@@ -70,19 +70,19 @@
       "faces": {
         "north": {
           "uv": [
-            4,
             8,
             0,
-            16
+            4,
+            8
           ],
           "texture": "#crop"
         },
         "south": {
           "uv": [
+            4,
             0,
             8,
-            4,
-            16
+            8
           ],
           "texture": "#crop"
         }
@@ -112,19 +112,19 @@
       "faces": {
         "north": {
           "uv": [
+            4,
             0,
             8,
-            4,
-            16
+            8
           ],
           "texture": "#crop"
         },
         "south": {
           "uv": [
-            4,
             8,
             0,
-            16
+            4,
+            8
           ],
           "texture": "#crop"
         }
@@ -154,19 +154,19 @@
       "faces": {
         "north": {
           "uv": [
-            4,
             8,
             0,
-            16
+            4,
+            8
           ],
           "texture": "#crop"
         },
         "south": {
           "uv": [
+            4,
             0,
             8,
-            4,
-            16
+            8
           ],
           "texture": "#crop"
         }
@@ -177,7 +177,7 @@
     "fixed": {
       "rotation": [
         0,
-        -45,
+        45,
         0
       ],
       "translation": [
