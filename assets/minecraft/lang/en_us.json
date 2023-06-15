@@ -65,5 +65,9 @@
   "genesis.menu.amulet.main_page.profession_levels": "Profession Levels",
   "genesis.menu.amulet.main_page.biome_info": "Biome Info",
   "genesis.menu.amulet.main_page.stats_descriptions": "Stats Descriptions",
-  "genesis.menu.amulet.amulet_way_to_use": {"text":"\\n\\nright-click to navigate\\nshift right-click to select\\nthrow to go up a level","color":"yellow","italic":false}
+  "genesis.menu.amulet.amulet_way_to_use": {"text":"\\n\\nright-click to navigate\\nshift right-click to ,,select\\nthrow to go up a level","color":"yellow","italic":false},
+
+  "genesis.mobs.display_name.type.default": [{"text":"§8『ᴸᵛᴸ%s§8』%s"}],
+  "genesis.mobs.mutated_zombie": {"text":"Mutated Zombie","color":"green","italic":false}
+
 }
