@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": 
+    {
+      "layer0": "minecraft:item/enchanted_book"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":9824001},"model":"item/genesis/minerals/crystal_quartz"},
+        {"predicate":{"custom_model_data":9824002},"model":"item/genesis/crops/seed/bar"},
+        {"predicate":{"custom_model_data":9824003},"model":"item/genesis/crops/seed/heartbeet"}
+    ]
+}
