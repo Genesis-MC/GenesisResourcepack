@@ -22,7 +22,7 @@
         {"predicate":{"custom_model_data":982015},"model":"item/genesis/minerals/bedrock_mithril"},
         {"predicate":{"custom_model_data":982016},"model":"item/genesis/minerals/aquamarine"},
         {"predicate":{"custom_model_data":982017},"model":"item/genesis/minerals/ruby"},
-        {"predicate":{"custom_model_data":982018},"model":"item/genesis/minerals/kunsite"},
+        {"predicate":{"custom_model_data":982018},"model":"item/genesis/minerals/kunzite"},
         {"predicate":{"custom_model_data":982019},"model":"item/genesis/minerals/sapphire"},
         {"predicate":{"custom_model_data":982020},"model":"item/genesis/minerals/glacial_larimar"},
         {"predicate":{"custom_model_data":982021},"model":"item/genesis/minerals/fire_opal"},
