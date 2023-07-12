@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "genesis:item/minerals/ruby"
+      "layer0": "genesis:item/minerals/umbra_heart"
     }
 } 
