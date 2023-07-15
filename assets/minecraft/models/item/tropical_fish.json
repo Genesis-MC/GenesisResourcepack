@@ -1,0 +1,20 @@
+{
+  "overrides": [
+    {
+      "model": "item/genesis/crops/produce/heartbeet",
+      "predicate": {
+        "custom_model_data": 1
+      }
+    },
+    {
+      "model": "item/genesis/crops/produce/corncob",
+      "predicate": {
+        "custom_model_data": 2
+      }
+    }
+  ],
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/tropical_fish"
+  }
+}

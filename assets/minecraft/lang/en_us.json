@@ -1,4 +1,10 @@
 {
+  "item.gen.crops.seed.foo": "Foo Seed (debug item)",
+  "item.gen.crops.seed.bar": "Bar Seed (debug item)",
+  "item.gen.crops.seed.heartbeet": "Heartbeet Seed",
+  "item.gen.crops.seed.corn": "Corn Seed",
+  "item.gen.crops.produce.heartbeet": "Heartbeet",
+  "item.gen.crops.produce.corncob": "Corncob",
   "genesis.stats.wrapper.foobar.1": "\u1000\ub009%s\ua004",
   "genesis.stats.wrapper.foobar.2": "\u1001\ub015%s\ua004",
   "genesis.stats.wrapper.foobar.3": "\u1002\ub021%s\ua004",
