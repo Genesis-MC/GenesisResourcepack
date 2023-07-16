@@ -28,6 +28,10 @@
         {"predicate":{"custom_model_data":22},"model":"block/genesis/crops/corn/4"},
         {"predicate":{"custom_model_data":23},"model":"block/genesis/crops/corn/5"},
         {"predicate":{"custom_model_data":24},"model":"block/genesis/crops/corn/6"},
-        {"predicate":{"custom_model_data":25},"model":"block/genesis/crops/corn/7"}
+        {"predicate":{"custom_model_data":25},"model":"block/genesis/crops/corn/7"},
+        {"predicate":{"custom_model_data":26},"model":"block/genesis/crops/mana_bean/0"},
+        {"predicate":{"custom_model_data":27},"model":"block/genesis/crops/mana_bean/1"},
+        {"predicate":{"custom_model_data":28},"model":"block/genesis/crops/mana_bean/2"},
+        {"predicate":{"custom_model_data":29},"model":"block/genesis/crops/mana_bean/3"}
     ]
 }

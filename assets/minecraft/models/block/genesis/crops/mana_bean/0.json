@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/genesis/crops/template_8sprite_hash/0",
+  "textures": {
+    "crop": "genesis:block/crops/mana_bean"
+  }
+}
