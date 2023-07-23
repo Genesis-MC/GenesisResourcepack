@@ -9,6 +9,10 @@
         {"predicate":{"custom_model_data":982002},"model":"item/genesis/mob_drops/verdant_twig"},
         {"predicate":{"custom_model_data":982003},"model":"item/genesis/mob_drops/verdant_shard"},
         {"predicate":{"custom_model_data":982004},"model":"item/genesis/mob_drops/shade_flux"},
-        {"predicate":{"custom_model_data":982005},"model":"item/genesis/mob_drops/voided_fragment"}
+        {"predicate":{"custom_model_data":982005},"model":"item/genesis/mob_drops/voided_fragment"},
+        {"predicate":{"custom_model_data":982006},"model":"item/genesis/mob_drops/mutated_flesh"},
+        {"predicate":{"custom_model_data":982007},"model":"item/genesis/mob_drops/hexed_hailstone"},
+        {"predicate":{"custom_model_data":982008},"model":"item/genesis/mob_drops/blizzard_tear"},
+        {"predicate":{"custom_model_data":982009},"model":"item/genesis/mob_drops/shard_of_the_crimson_abysm"}
     ]
 }
