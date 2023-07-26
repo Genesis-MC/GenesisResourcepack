@@ -1,0 +1,23 @@
+{
+    "providers": [
+	{
+            "type": "bitmap",
+            "file": "genesis:font/icon/logo.png",
+            "height": 8,
+            "ascent": 7,
+            "chars": [
+                "\u0041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "genesis:font/icon/professions.png",
+            "height": 16,
+            "ascent": 8,
+            "chars": [
+                "\u0042\u0043\u0044\u0045",
+                "\u0046\u0047\u0048\u0000"
+            ]
+        }
+    ]
+}
