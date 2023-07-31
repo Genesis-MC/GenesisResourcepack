@@ -13,6 +13,8 @@
         {"predicate":{"custom_model_data":982006},"model":"item/genesis/mob_drops/mutated_flesh"},
         {"predicate":{"custom_model_data":982007},"model":"item/genesis/mob_drops/hexed_hailstone"},
         {"predicate":{"custom_model_data":982008},"model":"item/genesis/mob_drops/blizzard_tear"},
-        {"predicate":{"custom_model_data":982009},"model":"item/genesis/mob_drops/shard_of_the_crimson_abysm"}
+        {"predicate":{"custom_model_data":982009},"model":"item/genesis/mob_drops/shard_of_the_crimson_abysm"},
+        {"predicate":{"custom_model_data":982009},"model":"item/genesis/mob_drops/crystal_scale"},
+        {"predicate":{"custom_model_data":982009},"model":"item/genesis/mob_drops/petrified_bark"}
     ]
 }
