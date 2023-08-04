@@ -19,6 +19,8 @@
         {"predicate":{"custom_model_data":982012},"model":"item/genesis/minerals/pink_enhancement_crystal"},
         {"predicate":{"custom_model_data":982013},"model":"item/genesis/minerals/yellow_enhancement_crystal"},
         {"predicate":{"custom_model_data":982014},"model":"item/genesis/minerals/crimson_enhancement_crystal"},
-        {"predicate":{"custom_model_data":982015},"model":"item/genesis/minerals/cerulean_enhancement_crystal"}
+        {"predicate":{"custom_model_data":982015},"model":"item/genesis/minerals/cerulean_enhancement_crystal"},
+        {"predicate":{"custom_model_data":982016},"model":"item/genesis/mob_drops/vermillion_clay"},
+        {"predicate":{"custom_model_data":982017},"model":"item/genesis/mob_drops/terraclod_pearl"}
     ]
 }
