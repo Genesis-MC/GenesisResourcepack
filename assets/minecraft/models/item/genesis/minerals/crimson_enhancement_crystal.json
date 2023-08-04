@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "genesis:item/minerals/violet_enhancement_crystal"
+      "layer0": "genesis:item/minerals/crimson_enhancement_crystal"
     }
 } 

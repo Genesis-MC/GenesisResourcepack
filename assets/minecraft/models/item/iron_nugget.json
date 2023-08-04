@@ -17,8 +17,8 @@
         {"predicate":{"custom_model_data":982010},"model":"item/genesis/mob_drops/crystal_scale"},
         {"predicate":{"custom_model_data":982011},"model":"item/genesis/mob_drops/petrified_bark"},
         {"predicate":{"custom_model_data":982012},"model":"item/genesis/minerals/pink_enhancement_crystal"},
-        {"predicate":{"custom_model_data":982013},"model":"item/genesis/minerals/violet_enhancement_crystal"},
-        {"predicate":{"custom_model_data":982014},"model":"item/genesis/minerals/blue_enhancement_crystal"},
-        {"predicate":{"custom_model_data":982015},"model":"item/genesis/minerals/green_enhancement_crystal"}
+        {"predicate":{"custom_model_data":982013},"model":"item/genesis/minerals/yellow_enhancement_crystal"},
+        {"predicate":{"custom_model_data":982014},"model":"item/genesis/minerals/crimson_enhancement_crystal"},
+        {"predicate":{"custom_model_data":982015},"model":"item/genesis/minerals/cerulean_enhancement_crystal"}
     ]
 }
