@@ -6,6 +6,10 @@
     "overrides": [
         {"predicate":{"custom_model_data":982001},"model":"item/genesis/dev/dev_stone_off"},
         {"predicate":{"custom_model_data":982002},"model":"item/genesis/dev/dev_stone_normal"},
-        {"predicate":{"custom_model_data":982003},"model":"item/genesis/dev/dev_stone_all"}
+        {"predicate":{"custom_model_data":982003},"model":"item/genesis/dev/dev_stone_all"},
+        {"predicate":{"custom_model_data":982004},"model":"item/genesis/gear/iron_spear"},
+        {"predicate":{"custom_model_data":982005},"model":"item/genesis/gear/iron_scythe"},
+        {"predicate":{"custom_model_data":982006},"model":"item/genesis/gear/iron_dagger"},
+        {"predicate":{"custom_model_data":982007},"model":"item/genesis/gear/iron_greatsword"}
     ]
 }
