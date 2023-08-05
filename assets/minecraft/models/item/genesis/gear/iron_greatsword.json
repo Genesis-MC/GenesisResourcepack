@@ -2,8 +2,6 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"1": "genesis:item/gear/iron_spear",
-		"particle": "genesis:item/gear/iron_spear",
 		"layer0": "genesis:item/gear/iron_greatsword"
 	},
 	"gui_light": "front",
