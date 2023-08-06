@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/genesis/gear/template/scythe",
+	"textures": {
+		"layer0": "genesis:item/gear/jack_o_reaper"
+	}
+}
