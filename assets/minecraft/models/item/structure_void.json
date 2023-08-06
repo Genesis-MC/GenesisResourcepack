@@ -8,5 +8,6 @@
         {"predicate":{"custom_model_data":2},"model":"item/genesis/gear/iron_scythe"},
         {"predicate":{"custom_model_data":3},"model":"item/genesis/gear/iron_dagger"},
         {"predicate":{"custom_model_data":4},"model":"item/genesis/gear/iron_greatsword"}
+        {"predicate":{"custom_model_data":5},"model":"item/genesis/gear/overgrown_greatsword"}
     ]
 }

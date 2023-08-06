@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "genesis:item/gear/overgrown_greatsword"
+	},
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [0, 9.25, -11.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0, 9.25, -11.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-55, -90, 25],
+			"translation": [8.25, -0.75, -15.37]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -83],
+			"translation": [8.25, -0.75, -15]
+		},
+		"ground": {
+			"translation": [-7, 11.5, 0],
+			"scale": [0.75, 0.75, 0.365]
+		},
+		"gui": {
+			"translation": [-4.5, 4.5, 0],
+			"scale": [0.55, 0.55, 1]
+		},
+		"head": {
+			"rotation": [0, 0, -136],
+			"translation": [16.75, -17.25, 0.25],
+			"scale": [1.5, 1.5, 1]
+		},
+		"fixed": {
+			"translation": [-7.5, 7.75, -1],
+			"scale": [1, 1, 1.44]
+		}
+	},
+	"groups": [
+		{
+			"name": "overgrown_greatsword",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		}
+	]
+}
