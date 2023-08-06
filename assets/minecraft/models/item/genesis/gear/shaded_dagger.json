@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/genesis/gear/template/scythe",
+	"parent": "minecraft:item/genesis/gear/template/dagger",
 	"textures": {
 		"layer0": "genesis:item/gear/shaded_dagger"
 	}
