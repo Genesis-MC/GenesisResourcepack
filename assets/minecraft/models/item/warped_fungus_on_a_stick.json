@@ -15,6 +15,7 @@
         {"predicate":{"custom_model_data":982009},"model":"item/genesis/gear/overgrown_greatsword"},
         {"predicate":{"custom_model_data":982010},"model":"item/genesis/gear/jack_o_reaper"},
         {"predicate":{"custom_model_data":982011},"model":"item/genesis/gear/halycon"},
-        {"predicate":{"custom_model_data":982012},"model":"item/genesis/gear/spirit_lamp"}
+        {"predicate":{"custom_model_data":982012},"model":"item/genesis/gear/spirit_lamp"},
+ 	{"predicate":{"custom_model_data":982013},"model":"item/genesis/gear/helix_spear"}
     ]
 }
