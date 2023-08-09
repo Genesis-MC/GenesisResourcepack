@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/genesis/gear/template/spear",
+	"parent": "genesis:item/gear/template/spear",
 	"textures": {
 		"layer0": "genesis:item/gear/helix_spear"
 	}
