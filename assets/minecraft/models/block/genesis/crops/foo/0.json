@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/genesis/crops/template_8sprite_cross/0",
-  "textures": {
-    "crop": "genesis:block/crops/foo"
-  }
-}
