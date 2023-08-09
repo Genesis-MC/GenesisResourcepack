@@ -1,11 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:item/generated",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "spirit_lamp",
-		"3": "spirit_flame",
-		"particle": "spirit_flame"
+		"1": "genesis:item/gear/spirit_lamp",
+		"3": "genesis:item/gear/spirit_flame",
+		"particle": "genesis:item/gear/spirit_flame"
 	},
 	"elements": [
 		{
