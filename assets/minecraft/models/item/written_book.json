@@ -5,6 +5,6 @@
       "layer0": "minecraft:item/written_book"
     },
     "overrides": [
-        {"predicate":{"custom_model_data":982001},"model":"item/genesis/books/guide_book"}
+        {"predicate":{"custom_model_data":982001},"model":"genesis:item/books/guide_book"}
     ]
 }

@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/genesis/gear/template/greatsword",
+	"parent": "genesis:item/gear/template/greatsword",
 	"textures": {
 		"layer0": "genesis:item/gear/overgrown_greatsword"
 	}
