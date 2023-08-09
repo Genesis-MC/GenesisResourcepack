@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:item/genesis/gear/template/scythe",
+	"parent": "genesis:item/gear/template/scythe",
 	"textures": {
 		"layer0": "genesis:item/gear/iron_scythe"
 	}

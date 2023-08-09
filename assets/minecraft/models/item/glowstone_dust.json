@@ -5,7 +5,7 @@
       "layer0": "minecraft:item/glowstone_dust"
     },
     "overrides": [
-        {"predicate":{"custom_model_data":982001},"model":"item/genesis/ingredients/crystal_dust"},
-        {"predicate":{"custom_model_data":982002},"model":"item/genesis/ingredients/pure_crystal_dust"}
+        {"predicate":{"custom_model_data":982001},"model":"genesis:item/ingredients/crystal_dust"},
+        {"predicate":{"custom_model_data":982002},"model":"genesis:item/ingredients/pure_crystal_dust"}
     ]
 }

@@ -4,17 +4,17 @@
     "layer0": "minecraft:item/warped_fungus_on_a_stick"
   },
     "overrides": [
-        {"predicate":{"custom_model_data":982001},"model":"item/genesis/dev/dev_stone_off"},
-        {"predicate":{"custom_model_data":982002},"model":"item/genesis/dev/dev_stone_normal"},
-        {"predicate":{"custom_model_data":982003},"model":"item/genesis/dev/dev_stone_all"},
-        {"predicate":{"custom_model_data":982004},"model":"item/genesis/gear/iron_spear"},
-        {"predicate":{"custom_model_data":982005},"model":"item/genesis/gear/iron_scythe"},
-        {"predicate":{"custom_model_data":982006},"model":"item/genesis/gear/iron_dagger"},
-        {"predicate":{"custom_model_data":982007},"model":"item/genesis/gear/iron_greatsword"},
-        {"predicate":{"custom_model_data":982008},"model":"item/genesis/gear/shaded_dagger"},
-        {"predicate":{"custom_model_data":982009},"model":"item/genesis/gear/overgrown_greatsword"},
-        {"predicate":{"custom_model_data":982010},"model":"item/genesis/gear/jack_o_reaper"},
-        {"predicate":{"custom_model_data":982011},"model":"item/genesis/gear/halycon"},
-        {"predicate":{"custom_model_data":982012},"model":"item/genesis/gear/spirit_lamp"}
+        {"predicate":{"custom_model_data":982001},"model":"genesis:item/dev/dev_stone_off"},
+        {"predicate":{"custom_model_data":982002},"model":"genesis:item/dev/dev_stone_normal"},
+        {"predicate":{"custom_model_data":982003},"model":"genesis:item/dev/dev_stone_all"},
+        {"predicate":{"custom_model_data":982004},"model":"genesis:item/gear/iron_spear"},
+        {"predicate":{"custom_model_data":982005},"model":"genesis:item/gear/iron_scythe"},
+        {"predicate":{"custom_model_data":982006},"model":"genesis:item/gear/iron_dagger"},
+        {"predicate":{"custom_model_data":982007},"model":"genesis:item/gear/iron_greatsword"},
+        {"predicate":{"custom_model_data":982008},"model":"genesis:item/gear/shaded_dagger"},
+        {"predicate":{"custom_model_data":982009},"model":"genesis:item/gear/overgrown_greatsword"},
+        {"predicate":{"custom_model_data":982010},"model":"genesis:item/gear/jack_o_reaper"},
+        {"predicate":{"custom_model_data":982011},"model":"genesis:item/gear/halycon"},
+        {"predicate":{"custom_model_data":982012},"model":"genesis:item/gear/spirit_lamp"}
     ]
 }

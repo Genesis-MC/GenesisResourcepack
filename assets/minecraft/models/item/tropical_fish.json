@@ -1,19 +1,19 @@
 {
   "overrides": [
     {
-      "model": "item/genesis/crops/produce/heartbeet",
+      "model": "genesis:item/crops/produce/heartbeet",
       "predicate": {
         "custom_model_data": 1
       }
     },
     {
-      "model": "item/genesis/crops/produce/corncob",
+      "model": "genesis:item/crops/produce/corncob",
       "predicate": {
         "custom_model_data": 2
       }
     },
     {
-      "model": "item/genesis/crops/produce/mana_bean",
+      "model": "genesis:item/crops/produce/mana_bean",
       "predicate": {
         "custom_model_data": 3
       }
