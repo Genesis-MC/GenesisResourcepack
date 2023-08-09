@@ -1,0 +1,6 @@
+{
+  "parent": "genesis:block/crops/template_8sprite_cross_3tall/4",
+  "textures": {
+    "crop": "genesis:block/crops/corn"
+  }
+}

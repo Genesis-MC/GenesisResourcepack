@@ -1,0 +1,6 @@
+{
+  "parent": "genesis:block/crops/template_beet/large",
+  "textures": {
+    "crop": "genesis:block/crops/heartbeet/4"
+  }
+}
