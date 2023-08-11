@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": 
+    {
+      "layer0": "minecraft:item/baked_potato"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":982001},"model":"genesis:item/mob_drops/truffle"},
+        {"predicate":{"custom_model_data":982002},"model":"genesis:item/mob_drops/wizards_truffle"}
+    ]
+}
