@@ -17,6 +17,12 @@
       "predicate": {
         "custom_model_data": 3
       }
+    },
+    {
+      "model": "genesis:item/mob_drops/calimari",
+      "predicate": {
+        "custom_model_data": 982001
+      }
     }
   ],
   "parent": "minecraft:item/generated",

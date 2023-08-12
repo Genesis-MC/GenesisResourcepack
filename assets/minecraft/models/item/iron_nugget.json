@@ -21,6 +21,7 @@
         {"predicate":{"custom_model_data":982014},"model":"genesis:item/minerals/crimson_enhancement_crystal"},
         {"predicate":{"custom_model_data":982015},"model":"genesis:item/minerals/cerulean_enhancement_crystal"},
         {"predicate":{"custom_model_data":982016},"model":"genesis:item/mob_drops/vermillion_clay"},
-        {"predicate":{"custom_model_data":982017},"model":"genesis:item/mob_drops/terraclod_pearl"}
+        {"predicate":{"custom_model_data":982017},"model":"genesis:item/mob_drops/terraclod_pearl"},
+        {"predicate":{"custom_model_data":982018},"model":"genesis:item/mob_drops/shard_of_the_warped_empyrean"}
     ]
 }
