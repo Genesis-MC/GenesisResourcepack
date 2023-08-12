@@ -1,0 +1,6 @@
+{
+  "parent": "genesis:block/crops/template_8sprite_hash/3",
+  "textures": {
+    "crop": "genesis:block/crops/tomato"
+  }
+}
