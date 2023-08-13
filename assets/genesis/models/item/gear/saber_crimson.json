@@ -1,0 +1,6 @@
+{
+	"parent": "genesis:item/gear/template/greatsword",
+	"textures": {
+		"layer0": "genesis:item/gear/saber_crimson"
+	}
+}

@@ -16,6 +16,8 @@
         {"predicate":{"custom_model_data":982010},"model":"genesis:item/gear/jack_o_reaper"},
         {"predicate":{"custom_model_data":982011},"model":"genesis:item/gear/halycon"},
         {"predicate":{"custom_model_data":982012},"model":"genesis:item/gear/spirit_lamp"},
-      	{"predicate":{"custom_model_data":982013},"model":"genesis:item/gear/helix_spear"}
+      	{"predicate":{"custom_model_data":982013},"model":"genesis:item/gear/helix_spear"},
+      	{"predicate":{"custom_model_data":982014},"model":"genesis:item/gear/saber_warped"},
+      	{"predicate":{"custom_model_data":982015},"model":"genesis:item/gear/saber_crimson"}
     ]
 }
