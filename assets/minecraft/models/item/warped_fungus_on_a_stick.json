@@ -19,6 +19,8 @@
       	{"predicate":{"custom_model_data":982013},"model":"genesis:item/gear/helix_spear"},
       	{"predicate":{"custom_model_data":982014},"model":"genesis:item/gear/saber_warped"},
       	{"predicate":{"custom_model_data":982015},"model":"genesis:item/gear/saber_crimson"},
-	{"predicate":{"custom_model_data":982016},"model":"genesis:item/gear/kopesh"}
+	{"predicate":{"custom_model_data":982016},"model":"genesis:item/gear/kopesh"},
+	{"predicate":{"custom_model_data":982017},"model":"genesis:item/gear/hook"}
+
     ]
 }
