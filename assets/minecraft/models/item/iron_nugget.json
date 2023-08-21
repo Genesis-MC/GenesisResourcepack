@@ -26,6 +26,7 @@
         {"predicate":{"custom_model_data":982019},"model":"genesis:item/minerals/netherite_sediment"},
         {"predicate":{"custom_model_data":982020},"model":"genesis:item/ingredients/warped_alloy"},
         {"predicate":{"custom_model_data":982021},"model":"genesis:item/ingredients/crimson_alloy"},
-        {"predicate":{"custom_model_data":982022},"model":"genesis:item/ingredients/scrapscuttle_egg"}
+        {"predicate":{"custom_model_data":982022},"model":"genesis:item/ingredients/scrapscuttle_egg"},
+        {"predicate":{"custom_model_data":982023},"model":"genesis:item/mobs_drops/venom_sac"}
     ]
 }
