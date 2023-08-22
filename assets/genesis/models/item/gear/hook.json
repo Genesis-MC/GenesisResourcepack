@@ -2,8 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "genesis:item/gear/hook",
-		"particle": "genesis:item/gear/hook"
+		"0": "genesis:item/gear/hook"
 	},
 	"elements": [
 		{
@@ -121,23 +120,66 @@
 			}
 		}
 	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [45, 0, 0],
+			"translation": [5.5, 0, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [45, 0, 0],
+			"translation": [5.5, 0, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [90, -45, 90],
+			"translation": [-2.5, 0.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"head": {
+			"rotation": [-141.74, 0, 180],
+			"translation": [0, 4, 9.25]
+		},
+		"fixed": {
+			"rotation": [90, 45, -90],
+			"translation": [3.5, 1, 0],
+			"scale": [0.8, 0.8, 0.8]
+		}
+	},
 	"groups": [
 		{
-			"name": "hook_hand",
+			"name": "hook",
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [
 				{
-					"name": "base",
+					"name": "hook_hand",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [0, 1]
-				},
-				{
-					"name": "hook",
-					"origin": [0, 0, 0],
-					"color": 0,
-					"children": [2, 3, 4, 5, 6, 7, 8]
+					"children": [
+						{
+							"name": "base",
+							"origin": [8, 8, 8],
+							"color": 0,
+							"children": [0, 1]
+						},
+						{
+							"name": "hook",
+							"origin": [0, 0, 0],
+							"color": 0,
+							"children": [2, 3, 4, 5, 6, 7, 8]
+						}
+					]
 				}
 			]
 		}
