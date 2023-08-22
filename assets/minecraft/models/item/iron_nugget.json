@@ -30,6 +30,6 @@
         {"predicate":{"custom_model_data":982023},"model":"genesis:item/mobs_drops/venom_sac"},
         {"predicate":{"custom_model_data":982024},"model":"genesis:item/mobs_drops/livingwood_core"},
         {"predicate":{"custom_model_data":982025},"model":"genesis:item/mobs_drops/everfrost_core"},
-        {"predicate":{"custom_model_data":982023},"model":"genesis:item/mobs_drops/pyroclastic_core"}
+        {"predicate":{"custom_model_data":982026},"model":"genesis:item/mobs_drops/pyroclastic_core"}
     ]
 }
