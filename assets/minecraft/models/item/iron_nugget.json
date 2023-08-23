@@ -27,9 +27,9 @@
         {"predicate":{"custom_model_data":982020},"model":"genesis:item/ingredients/warped_alloy"},
         {"predicate":{"custom_model_data":982021},"model":"genesis:item/ingredients/crimson_alloy"},
         {"predicate":{"custom_model_data":982022},"model":"genesis:item/ingredients/scrapscuttle_egg"},
-        {"predicate":{"custom_model_data":982023},"model":"genesis:item/mobs_drops/venom_sac"},
-        {"predicate":{"custom_model_data":982024},"model":"genesis:item/mobs_drops/livingwood_core"},
-        {"predicate":{"custom_model_data":982025},"model":"genesis:item/mobs_drops/everfrost_core"},
-        {"predicate":{"custom_model_data":982026},"model":"genesis:item/mobs_drops/pyroclastic_core"}
+        {"predicate":{"custom_model_data":982023},"model":"genesis:item/mob_drops/venom_sac"},
+        {"predicate":{"custom_model_data":982024},"model":"genesis:item/mob_drops/livingwood_core"},
+        {"predicate":{"custom_model_data":982025},"model":"genesis:item/mob_drops/everfrost_core"},
+        {"predicate":{"custom_model_data":982026},"model":"genesis:item/mob_drops/pyroclastic_core"}
     ]
 }
