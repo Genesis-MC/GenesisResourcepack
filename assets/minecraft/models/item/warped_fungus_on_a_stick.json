@@ -23,7 +23,7 @@
 	      {"predicate":{"custom_model_data":982017},"model":"genesis:item/gear/hook"},
 	      {"predicate":{"custom_model_data":982018},"model":"genesis:item/gear/recluse_fang"},
 	      {"predicate":{"custom_model_data":982019},"model":"genesis:item/gear/venomlash_fang"},
-	      {"predicate":{"custom_model_data":982019},"model":"genesis:item/gear/lapis_prism"},
-        {"predicate":{"custom_model_data":982020},"model":"genesis:item/gear/lady_luck"}
+	      {"predicate":{"custom_model_data":982020},"model":"genesis:item/gear/lapis_prism"},
+        {"predicate":{"custom_model_data":982021},"model":"genesis:item/gear/lady_luck"}
     ]
 }
