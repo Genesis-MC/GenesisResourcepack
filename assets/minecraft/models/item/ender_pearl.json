@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": 
+    {
+      "layer0": "minecraft:item/ender_pearl"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":982001},"model":"genesis:item/ingredients/shaded_ender_pearl"},
+        {"predicate":{"custom_model_data":982002},"model":"genesis:item/ingredients/voided_ender_pearl"}
+    ]
+}
