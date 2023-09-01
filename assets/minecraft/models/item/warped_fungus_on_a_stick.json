@@ -25,6 +25,8 @@
 	      {"predicate":{"custom_model_data":982019},"model":"genesis:item/gear/venomlash_fang"},
 	      {"predicate":{"custom_model_data":982020},"model":"genesis:item/gear/lapis_prism"},
         {"predicate":{"custom_model_data":982021},"model":"genesis:item/gear/lady_luck"},
-	{"predicate":{"custom_model_data":982022},"model":"genesis:item/gear/frost_fang"}
+	      {"predicate":{"custom_model_data":982022},"model":"genesis:item/gear/frost_fang"},
+	      {"predicate":{"custom_model_data":982023},"model":"genesis:item/gear/void_razor"},
+	      {"predicate":{"custom_model_data":982024},"model":"genesis:item/gear/heavens_thorn"}
     ]
 }
