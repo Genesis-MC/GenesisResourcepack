@@ -2,7 +2,7 @@
     "parent": "minecraft:item/generated",
     "textures": 
     {
-      "layer0": "minecraft:item/enchanted_book"
+      "layer0": "minecraft:item/amethyst_shard"
     },
     "overrides": [
         {"predicate":{"custom_model_data":982001},"model":"genesis:item/minerals/crystal_quartz"},
