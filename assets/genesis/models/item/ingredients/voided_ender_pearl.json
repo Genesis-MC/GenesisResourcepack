@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "genesis:item/minerals/fire_opal"
+      "layer0": "genesis:item/ingredients/voided_ender_pearl"
     }
 } 
