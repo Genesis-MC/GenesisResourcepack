@@ -1,0 +1,9 @@
+{
+    "providers": [{
+        "type": "bitmap",
+        "file": "genesis:font/mana/small_numbers.png",
+        "height": 5,
+        "ascent": -18,
+        "chars": [ "0123456789/" ]
+    }]
+}
