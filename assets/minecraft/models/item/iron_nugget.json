@@ -32,6 +32,8 @@
         {"predicate":{"custom_model_data":982025},"model":"genesis:item/mob_drops/everfrost_core"},
         {"predicate":{"custom_model_data":982026},"model":"genesis:item/mob_drops/pyroclastic_core"},
         {"predicate":{"custom_model_data":982027},"model":"genesis:item/mob_drops/wolf_fang"},
-        {"predicate":{"custom_model_data":982028},"model":"genesis:item/minerals/pure_crystal"}
+        {"predicate":{"custom_model_data":982028},"model":"genesis:item/minerals/pure_crystal"},
+        {"predicate":{"custom_model_data":982029},"model":"genesis:item/food/salt"},
+        {"predicate":{"custom_model_data":982030},"model":"genesis:item/food/cornstarch"}
     ]
 }
