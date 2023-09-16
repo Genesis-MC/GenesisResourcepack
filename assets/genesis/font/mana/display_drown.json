@@ -1,0 +1,17 @@
+{
+    "providers": [{
+        "type": "bitmap",
+        "file": "genesis:font/mana/display.png",
+        "height": 9,
+        "ascent": -6,
+        "chars": [ "02345" ]},
+    {
+        "type": "space",
+        "advances": {
+            "B": 10,
+            "A": -11,
+            "1": 0,
+            "6": -2
+        }
+    }]
+}
