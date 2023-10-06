@@ -26,11 +26,13 @@
 	{"predicate":{"custom_model_data":982020},"model":"genesis:item/gear/lapis_prism"},
         {"predicate":{"custom_model_data":982021},"model":"genesis:item/gear/lady_luck"},
 	{"predicate":{"custom_model_data":982022},"model":"genesis:item/gear/frost_fang"},
-	{"predicate":{"custom_model_data":982023},"model":"genesis:item/gear/harbinger_of_winter"},	      			{"predicate":{"custom_model_data":982024},"model":"genesis:item/gear/hailstone_blade"},	      	{"predicate":{"custom_model_data":982025},"model":"genesis:item/gear/frostbite_titanblade"},
-	{"predicate":{"custom_model_data":982026},"model":"genesis:item/gear/void_razor"},
-	{"predicate":{"custom_model_data":982027},"model":"genesis:item/gear/heavens_thorn"},
-	{"predicate":{"custom_model_data":982028},"model":"genesis:item/gear/swashbucklers_glory"},
-	{"predicate":{"custom_model_data":982029},"model":"genesis:item/gear/prismarine_scythe"},
-	{"predicate":{"custom_model_data":982030},"model":"genesis:item/gear/riptide"}
+	{"predicate":{"custom_model_data":982023},"model":"genesis:item/gear/void_razor"},
+	{"predicate":{"custom_model_data":982024},"model":"genesis:item/gear/heavens_thorn"},
+	{"predicate":{"custom_model_data":982025},"model":"genesis:item/gear/swashbucklers_glory"},
+	{"predicate":{"custom_model_data":982026},"model":"genesis:item/gear/prismarine_scythe"},
+	{"predicate":{"custom_model_data":982027},"model":"genesis:item/gear/riptide"},
+  {"predicate":{"custom_model_data":982028},"model":"genesis:item/gear/harbinger_of_winter"},	      			
+  {"predicate":{"custom_model_data":982029},"model":"genesis:item/gear/hailstone_blade"},	      	
+  {"predicate":{"custom_model_data":982030},"model":"genesis:item/gear/frostbite_titanblade"}
     ]
 }
