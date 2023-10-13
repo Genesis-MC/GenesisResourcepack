@@ -1,4 +1,6 @@
 {
+  "block.gen.workstation.cooking_pot": "Cooking Pot",
+  "block.gen.workstation.cooking_pot.lore": "Can be placed over a Campfire",
   "item.gen.crops.seed.foo": "Foo Seed (debug item)",
   "item.gen.crops.seed.bar": "Bar Seed (debug item)",
   "item.gen.crops.seed.heartbeet": "Heartbeet Seeds",
@@ -74,6 +76,7 @@
   "genesis.lore.rarity.6": "%s Transcendent %s",
   "genesis.lore.type.seed": "Seed",
   "genesis.lore.type.ingredient": "Ingredient",
+  "genesis.lore.type.workstation": "Workstation",
   "genesis.notification.profession.levelup.alchemy": "Leveled up to alchemy level %s! Reaching the next level will require %s alchemy experience.",
   "genesis.notification.profession.levelup.artificing": "Leveled up to artificing level %s! Reaching the next level will require %s artificing experience.",
   "genesis.notification.profession.levelup.cooking": "Leveled up to cooking level %s! Reaching the next level will require %s cooking experience.",
