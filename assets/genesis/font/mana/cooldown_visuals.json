@@ -1,0 +1,15 @@
+{
+    "providers": [{
+        "type": "bitmap",
+        "file": "genesis:font/mana/cooldown_dot.png",
+        "height": 1,
+        "ascent": -59,
+        "chars": [ "1" ] },
+    {
+        "type": "bitmap",
+        "file": "genesis:font/icon/cooldown_icon.png",
+        "height": 16,
+        "ascent": -52,
+        "chars": [ "2" ]
+    }]
+}
