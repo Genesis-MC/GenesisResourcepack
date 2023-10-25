@@ -40,6 +40,10 @@
         {"predicate":{"custom_model_data":34},"model":"genesis:block/crops/tomato/4"},
         {"predicate":{"custom_model_data":35},"model":"genesis:block/crops/tomato/5"},
         {"predicate":{"custom_model_data":36},"model":"genesis:block/crops/tomato/6"},
-        {"predicate":{"custom_model_data":37},"model":"genesis:block/crops/tomato/7"}
+        {"predicate":{"custom_model_data":37},"model":"genesis:block/crops/tomato/7"},
+        {"predicate":{"custom_model_data":38},"model":"genesis:block/crops/violentil/0"},
+        {"predicate":{"custom_model_data":39},"model":"genesis:block/crops/violentil/1"},
+        {"predicate":{"custom_model_data":40},"model":"genesis:block/crops/violentil/2"},
+        {"predicate":{"custom_model_data":41},"model":"genesis:block/crops/violentil/3"}
     ]
 }
