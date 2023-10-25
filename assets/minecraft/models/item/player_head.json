@@ -7,6 +7,7 @@
         {"predicate":{"custom_model_data":982004},"model":"genesis:item/crops/seed/corn"},
         {"predicate":{"custom_model_data":982005},"model":"genesis:item/crops/seed/mana_bean"},
         {"predicate":{"custom_model_data":982006},"model":"genesis:item/crops/seed/tomato"},
-        {"predicate":{"custom_model_data":982007},"model":"genesis:item/crops/seed/violentil"}
+        {"predicate":{"custom_model_data":982007},"model":"genesis:item/crops/seed/violentil"},
+        {"predicate":{"custom_model_data":982008},"model":"genesis:item/crops/seed/desert_cattleya"}
     ]
 }
