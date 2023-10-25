@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/jigsaw",
+  "overrides": [
+      {"predicate":{"custom_model_data":982001},"model":"genesis:block/workstation/cooking_pot"}
+  ]
+}

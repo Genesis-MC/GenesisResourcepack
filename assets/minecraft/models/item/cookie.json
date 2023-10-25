@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": 
+    {
+      "layer0": "minecraft:item/cookie"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":982001},"model":"genesis:item/food/cake_slice"},
+        {"predicate":{"custom_model_data":982002},"model":"genesis:item/food/carrot_cake"}
+    ]
+}

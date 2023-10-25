@@ -1,0 +1,6 @@
+{
+	"parent": "genesis:item/gear/template/scythe",
+	"textures": {
+		"layer0": "genesis:item/gear/riptide"
+	}
+}

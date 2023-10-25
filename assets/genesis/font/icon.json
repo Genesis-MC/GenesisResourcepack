@@ -18,6 +18,24 @@
                 "\u0042\u0043\u0044\u0045",
                 "\u0046\u0047\u0048\u0000"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "genesis:font/icon/mana_icon.png",
+            "height": 16,
+            "ascent": 8,
+            "chars": [
+                "\u0049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "genesis:font/icon/cooldown_icon.png",
+            "height": 16,
+            "ascent": 8,
+            "chars": [
+                "\u004A"
+            ]
         }
     ]
 }

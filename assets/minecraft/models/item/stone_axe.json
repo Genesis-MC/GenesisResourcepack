@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/stone_axe"
+    },
+      "overrides": [
+          {"predicate":{"custom_model_data":982001},"model":"genesis:item/gear/novice_mallet"},
+          {"predicate":{"custom_model_data":982002},"model":"genesis:item/gear/apprentice_mallet"},
+          {"predicate":{"custom_model_data":982003},"model":"genesis:item/gear/journeyman_mallet"},
+          {"predicate":{"custom_model_data":982004},"model":"genesis:item/gear/expert_mallet"},
+          {"predicate":{"custom_model_data":982005},"model":"genesis:item/gear/master_mallet"}
+      ]
+  }

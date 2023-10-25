@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "genesis:item/mob_drops/verdant_shard"
+      "layer0": "genesis:item/mob_drops/verdant_twig"
     }
 } 

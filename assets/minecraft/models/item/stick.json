@@ -7,6 +7,7 @@
     "overrides": [
         {"predicate":{"custom_model_data":982001},"model":"genesis:item/gear/steel_hilt"},
         {"predicate":{"custom_model_data":982002},"model":"genesis:item/gear/gilded_hilt"},
-        {"predicate":{"custom_model_data":982003},"model":"genesis:item/gear/bejeweled_hilt"}
+        {"predicate":{"custom_model_data":982003},"model":"genesis:item/gear/bejeweled_hilt"},
+        {"predicate":{"custom_model_data":982004},"model":"genesis:item/mob_drops/verdant_twig"}
     ]
 }
