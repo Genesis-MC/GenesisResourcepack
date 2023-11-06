@@ -33,7 +33,7 @@
 	      {"predicate":{"custom_model_data":982027},"model":"genesis:item/gear/riptide"},
         {"predicate":{"custom_model_data":982028},"model":"genesis:item/gear/harbinger_of_winter"},	      			
         {"predicate":{"custom_model_data":982029},"model":"genesis:item/gear/hailstone_blade"},	      	
-        {"predicate":{"custom_model_data":982030},"model":"genesis:item/gear/frostbite_titanblade"},      	
+        {"predicate":{"custom_model_data":982030},"model":"genesis:item/gear/everfrost_titanblade"},      	
         {"predicate":{"custom_model_data":982031},"model":"genesis:item/gear/prisma_nova"},      	
         {"predicate":{"custom_model_data":982032},"model":"genesis:item/gear/vorpol"},      	
         {"predicate":{"custom_model_data":982033},"model":"genesis:item/gear/visharp"},      	
