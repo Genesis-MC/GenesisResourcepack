@@ -1,0 +1,27 @@
+{
+	"credit": "Made by Eroxen with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "genesis:block/crops/desert_cattleya"
+	},
+	"elements": [
+		{
+			"from": [8, -1, 6.5],
+			"to": [8, 5, 9.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, -1, 8]},
+			"faces": {
+				"east": {"uv": [0.75, 0, 0, 1.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.75, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -1, 6.5],
+			"to": [8, 5, 9.5],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, -1, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 0.75, 1.5], "texture": "#0"},
+				"west": {"uv": [0.75, 0, 0, 1.5], "texture": "#0"}
+			}
+		}
+	]
+}

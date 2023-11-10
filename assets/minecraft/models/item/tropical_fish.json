@@ -4,7 +4,8 @@
     {"predicate":{"custom_model_data":982002},"model":"genesis:item/crops/produce/heartbeet"},
     {"predicate":{"custom_model_data":982003},"model":"genesis:item/crops/produce/corncob"},
     {"predicate":{"custom_model_data":982004},"model":"genesis:item/crops/produce/mana_bean"},
-    {"predicate":{"custom_model_data":982005},"model":"genesis:item/crops/produce/tomato"}
+    {"predicate":{"custom_model_data":982005},"model":"genesis:item/crops/produce/tomato"},
+    {"predicate":{"custom_model_data":982006},"model":"genesis:item/crops/produce/violentil"}
   ],
   "parent": "minecraft:item/generated",
   "textures": {

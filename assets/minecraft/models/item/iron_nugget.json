@@ -34,6 +34,9 @@
         {"predicate":{"custom_model_data":982027},"model":"genesis:item/mob_drops/wolf_fang"},
         {"predicate":{"custom_model_data":982028},"model":"genesis:item/minerals/pure_crystal"},
         {"predicate":{"custom_model_data":982029},"model":"genesis:item/food/salt"},
-        {"predicate":{"custom_model_data":982030},"model":"genesis:item/food/cornstarch"}
+        {"predicate":{"custom_model_data":982030},"model":"genesis:item/food/cornstarch"},
+        {"predicate":{"custom_model_data":982031},"model":"genesis:item/ingredients/cloth"},
+        {"predicate":{"custom_model_data":982032},"model":"genesis:item/ingredients/mana_cloth"},
+        {"predicate":{"custom_model_data":982033},"model":"genesis:item/ingredients/arcane_cloth"}
     ]
 }

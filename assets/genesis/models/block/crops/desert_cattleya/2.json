@@ -1,0 +1,63 @@
+{
+	"credit": "Made by Eroxen with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "genesis:block/crops/desert_cattleya"
+	},
+	"elements": [
+		{
+			"from": [0, -1, 4.5],
+			"to": [8, -1, 11.5],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, -1, 8]},
+			"faces": {
+				"up": {"uv": [2.75, 1.75, 0.75, 0], "texture": "#0"},
+				"down": {"uv": [2.75, 0, 0.75, 1.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -1, 4.5],
+			"to": [16, -1, 11.5],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, -1, 8]},
+			"faces": {
+				"up": {"uv": [0.75, 0, 2.75, 1.75], "texture": "#0"},
+				"down": {"uv": [0.75, 1.75, 2.75, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, -1, 8],
+			"to": [9.5, 5, 8],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, -1, 8]},
+			"faces": {
+				"north": {"uv": [0.75, 0, 0, 1.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 0.75, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.5, -1, 8],
+			"to": [9.5, 5, 8],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, -1, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.75, 1.5], "texture": "#0"},
+				"south": {"uv": [0.75, 0, 0, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, -1, 8],
+			"to": [10.5, 15, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 1.75, 1.25, 5.75], "texture": "#0"},
+				"south": {"uv": [0, 1.75, 1.25, 5.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5.5, -1, 8],
+			"to": [10.5, 15, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 7, 8]},
+			"faces": {
+				"north": {"uv": [0, 1.75, 1.25, 5.75], "texture": "#0"},
+				"south": {"uv": [0, 1.75, 1.25, 5.75], "texture": "#0"}
+			}
+		}
+	]
+}

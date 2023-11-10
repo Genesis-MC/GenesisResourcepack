@@ -1,6 +1,6 @@
 {
 	"parent": "genesis:item/gear/template/dagger",
 	"textures": {
-		"layer0": "genesis:item/gear/harbinger_of_winter"
+		"layer0": "genesis:item/gear/visharp"
 	}
 }
