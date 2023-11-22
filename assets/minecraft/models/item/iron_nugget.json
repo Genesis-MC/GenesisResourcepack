@@ -15,7 +15,7 @@
         {"predicate":{"custom_model_data":982008},"model":"genesis:item/mob_drops/blizzard_tear"},
         {"predicate":{"custom_model_data":982009},"model":"genesis:item/mob_drops/shard_of_the_crimson_abysm"},
         {"predicate":{"custom_model_data":982010},"model":"genesis:item/mob_drops/crystal_scale"},
-        {"predicate":{"custom_model_data":982011},"model":"genesis:item/mob_drops/petrified_bark"},
+        {"predicate":{"custom_model_data":982011},"model":"genesis:item/mob_drops/mossy_bark"},
         {"predicate":{"custom_model_data":982012},"model":"genesis:item/minerals/pink_enhancement_crystal"},
         {"predicate":{"custom_model_data":982013},"model":"genesis:item/minerals/yellow_enhancement_crystal"},
         {"predicate":{"custom_model_data":982014},"model":"genesis:item/minerals/crimson_enhancement_crystal"},
@@ -37,6 +37,7 @@
         {"predicate":{"custom_model_data":982030},"model":"genesis:item/food/cornstarch"},
         {"predicate":{"custom_model_data":982031},"model":"genesis:item/ingredients/cloth"},
         {"predicate":{"custom_model_data":982032},"model":"genesis:item/ingredients/mana_cloth"},
-        {"predicate":{"custom_model_data":982033},"model":"genesis:item/ingredients/arcane_cloth"}
+        {"predicate":{"custom_model_data":982033},"model":"genesis:item/ingredients/arcane_cloth"},
+        {"predicate":{"custom_model_data":982034},"model":"genesis:item/ingredients/verdant_gem"}
     ]
 }
