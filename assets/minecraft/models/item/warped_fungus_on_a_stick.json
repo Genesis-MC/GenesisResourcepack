@@ -38,6 +38,8 @@
         {"predicate":{"custom_model_data":982032},"model":"genesis:item/gear/vorpol"},      	
         {"predicate":{"custom_model_data":982033},"model":"genesis:item/gear/visharp"},      	
         {"predicate":{"custom_model_data":982034},"model":"genesis:item/gear/vischerum"},      	
-        {"predicate":{"custom_model_data":982035},"model":"genesis:item/gear/verdant_staff"}
+        {"predicate":{"custom_model_data":982035},"model":"genesis:item/gear/verdant_staff"},      	
+        {"predicate":{"custom_model_data":982036},"model":"genesis:item/gear/verdant_masterstaff"},      	
+        {"predicate":{"custom_model_data":982037},"model":"genesis:item/gear/verdant_sceptor"}
     ]
 }
