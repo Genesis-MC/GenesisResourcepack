@@ -36,6 +36,24 @@
             "chars": [
                 "\u004A"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "genesis:font/icon/hunger_icon.png",
+            "height": 16,
+            "ascent": 8,
+            "chars": [
+                "\u004B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "genesis:font/icon/half_hunger_icon.png",
+            "height": 16,
+            "ascent": 8,
+            "chars": [
+                "\u004C"
+            ]
         }
     ]
 }
