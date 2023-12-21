@@ -5,7 +5,10 @@
     {"predicate":{"custom_model_data":982003},"model":"genesis:item/crops/produce/corncob"},
     {"predicate":{"custom_model_data":982004},"model":"genesis:item/crops/produce/mana_bean"},
     {"predicate":{"custom_model_data":982005},"model":"genesis:item/crops/produce/tomato"},
-    {"predicate":{"custom_model_data":982006},"model":"genesis:item/crops/produce/violentil"}
+    {"predicate":{"custom_model_data":982006},"model":"genesis:item/crops/produce/violentil"},
+    {"predicate":{"custom_model_data":982101},"model":"genesis:item/food/caramelized_apple"},
+    {"predicate":{"custom_model_data":982102},"model":"genesis:item/food/hashbrown"},
+    {"predicate":{"custom_model_data":982103},"model":"genesis:item/food/salmon_stirfry"}
   ],
   "parent": "minecraft:item/generated",
   "textures": {
