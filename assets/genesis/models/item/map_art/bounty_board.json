@@ -1,8 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
+	"gui_light": "front",
 	"textures": {
-		"1": "genesis:item/map_art/bounty_board"
+		"layer0": "genesis:item/map_art/bounty_board"
 	},
 	"display": {
 		"thirdperson_righthand": {
@@ -35,13 +36,5 @@
 			"translation": [0, 0, 0.5],
 			"scale": [2, 2, 3]
 		}
-	},
-	"groups": [
-		{
-			"name": "steel_hilt",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": []
-		}
-	]
+	}
 }
