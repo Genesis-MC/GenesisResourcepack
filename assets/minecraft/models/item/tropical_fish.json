@@ -8,7 +8,10 @@
     {"predicate":{"custom_model_data":982006},"model":"genesis:item/crops/produce/violentil"},
     {"predicate":{"custom_model_data":982101},"model":"genesis:item/food/caramelized_apple"},
     {"predicate":{"custom_model_data":982102},"model":"genesis:item/food/hashbrown"},
-    {"predicate":{"custom_model_data":982103},"model":"genesis:item/food/salmon_stirfry"}
+    {"predicate":{"custom_model_data":982103},"model":"genesis:item/food/salmon_stirfry"},
+    {"predicate":{"custom_model_data":982104},"model":"genesis:item/food/melon_candy"},
+    {"predicate":{"custom_model_data":982105},"model":"genesis:item/food/sakura_candy"},
+    {"predicate":{"custom_model_data":982106},"model":"genesis:item/food/prismatic_candy"}
   ],
   "parent": "minecraft:item/generated",
   "textures": {
