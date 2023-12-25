@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": 
+    {
+      "layer0": "minecraft:item/mushroom_stew"
+    },
+    "overrides": [
+        {"predicate":{"custom_model_data":982001},"model":"genesis:item/food/stew_of_the_sea"},
+        {"predicate":{"custom_model_data":982002},"model":"genesis:item/food/truffle_mushroom_stew"}
+    ]
+}
