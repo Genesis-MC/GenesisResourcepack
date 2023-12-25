@@ -11,7 +11,12 @@
     {"predicate":{"custom_model_data":982103},"model":"genesis:item/food/salmon_stirfry"},
     {"predicate":{"custom_model_data":982104},"model":"genesis:item/food/melon_candy"},
     {"predicate":{"custom_model_data":982105},"model":"genesis:item/food/sakura_candy"},
-    {"predicate":{"custom_model_data":982106},"model":"genesis:item/food/prismatic_candy"}
+    {"predicate":{"custom_model_data":982106},"model":"genesis:item/food/prismatic_candy"},
+    {"predicate":{"custom_model_data":982107},"model":"genesis:item/food/fried_calamari"},
+    {"predicate":{"custom_model_data":982108},"model":"genesis:item/food/prime_rib"},
+    {"predicate":{"custom_model_data":982109},"model":"genesis:item/food/stew_of_the_sea"},
+    {"predicate":{"custom_model_data":982110},"model":"genesis:item/food/truffle_mushroom_stew"},
+    {"predicate":{"custom_model_data":982111},"model":"genesis:item/food/vio-lentil_salad"}
   ],
   "parent": "minecraft:item/generated",
   "textures": {
