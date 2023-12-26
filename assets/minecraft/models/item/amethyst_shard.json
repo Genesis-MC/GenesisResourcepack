@@ -28,6 +28,9 @@
         {"predicate":{"custom_model_data":982021},"model":"genesis:item/minerals/fire_opal"},
         {"predicate":{"custom_model_data":982022},"model":"genesis:item/minerals/dragonscale_calcite"},
         {"predicate":{"custom_model_data":982023},"model":"genesis:item/minerals/black_opal"},
-        {"predicate":{"custom_model_data":982024},"model":"genesis:item/minerals/umbra_heart"}
+        {"predicate":{"custom_model_data":982024},"model":"genesis:item/minerals/umbra_heart"},
+        {"predicate":{"custom_model_data":982025},"model":"genesis:item/minerals/azurite"},
+        {"predicate":{"custom_model_data":982026},"model":"genesis:item/minerals/imperial_rosestone"},
+        {"predicate":{"custom_model_data":982027},"model":"genesis:item/minerals/grape_agate"}
     ]
 }
