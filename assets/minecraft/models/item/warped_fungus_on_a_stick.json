@@ -40,6 +40,8 @@
         {"predicate":{"custom_model_data":982034},"model":"genesis:item/gear/vischerum"},      	
         {"predicate":{"custom_model_data":982035},"model":"genesis:item/gear/verdant_staff"},      	
         {"predicate":{"custom_model_data":982036},"model":"genesis:item/gear/verdant_masterstaff"},      	
-        {"predicate":{"custom_model_data":982037},"model":"genesis:item/gear/verdant_sceptor"}
+        {"predicate":{"custom_model_data":982037},"model":"genesis:item/gear/verdant_sceptor"},      	
+        {"predicate":{"custom_model_data":982038},"model":"genesis:item/gear/obsidian_blade"},      	
+        {"predicate":{"custom_model_data":982039},"model":"genesis:item/gear/fading_dusk"}
     ]
 }
