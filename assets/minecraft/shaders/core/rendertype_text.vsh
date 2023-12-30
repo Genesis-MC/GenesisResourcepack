@@ -36,7 +36,14 @@ void main() {
     texCoord0 = UV0;
     // Custom
     cType = 0;
-    if (Position.z == 0.03 || Position.z == 0.06 || Position.z == 0.12 || Position.z == 400.03) { // Regular Text
+    if (
+        Position.z == 0.03 || // Actionbar
+        Position.z == 0.06 || // Subtitle
+        Position.z == 0.12 || // Title
+        Position.z == 100.03 || // Chat
+        Position.z == 200.03 || // Advancement Screen
+        Position.z == 400.03    // Items
+        ) { // Regular Text
         isShadow = 0;
         ivec3 iColor = ivec3(Color.xyz * 255.1);
         if (iColor == ivec3(78, 92, 36)) { vertexColor.rgb = texelFetch(Sampler2, UV2 / 16, 0).rgb; } else
@@ -44,7 +51,12 @@ void main() {
         if (iColor == ivec3(33, 25,  5)) { custom(2); } else
         if (iColor == ivec3(64, 51,  3)) { custom(3); }
 
-    } else if (Position.z == 0 || Position.z == 400) { // Shadow
+    } else if (
+        Position.z == 0 || // Actionbar | Subtitle | Title
+        Position.z == 100 || // Chat
+        Position.z == 200 || // Advancement Screen
+        Position.z == 400    // Items
+        ) { // Shadow
         isShadow = 1;
         ivec3 iColor = ivec3(Color.xyz * 255.1);
         if (iColor == ivec3(19, 23, 9)) { gl_Position = vec4(2,2,2,1); } else
