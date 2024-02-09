@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "genesis:item/mob_drops/chicken_wing"
+      "layer0": "genesis:item/mob_drops/drumstick"
     }
 } 

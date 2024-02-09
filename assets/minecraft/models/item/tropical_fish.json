@@ -16,7 +16,8 @@
     {"predicate":{"custom_model_data":982108},"model":"genesis:item/food/prime_rib"},
     {"predicate":{"custom_model_data":982109},"model":"genesis:item/food/vio-lentil_salad"},
     {"predicate":{"custom_model_data":982110},"model":"genesis:item/food/steak_and_egg"},
-    {"predicate":{"custom_model_data":982111},"model":"genesis:item/food/premium_steak_and_egg"}
+    {"predicate":{"custom_model_data":982111},"model":"genesis:item/food/premium_steak_and_egg"},
+    {"predicate":{"custom_model_data":982012},"model":"genesis:item/mob_drops/drumstick"}
   ],
   "parent": "minecraft:item/generated",
   "textures": {

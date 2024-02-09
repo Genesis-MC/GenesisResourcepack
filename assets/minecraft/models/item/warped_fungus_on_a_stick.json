@@ -44,7 +44,7 @@
         {"predicate":{"custom_model_data":982038},"model":"genesis:item/gear/obsidian_blade"},      	
         {"predicate":{"custom_model_data":982039},"model":"genesis:item/gear/fading_dusk"},      	
         {"predicate":{"custom_model_data":982040},"model":"genesis:item/gear/vermillion_glove"},      	
-        {"predicate":{"custom_model_data":982041},"model":"genesis:item/gear/shade_reaper"},      	
+        {"predicate":{"custom_model_data":982041},"model":"genesis:item/gear/"},      	
         {"predicate":{"custom_model_data":982042},"model":"genesis:item/gear/glaive"},      	
         {"predicate":{"custom_model_data":982043},"model":"genesis:item/gear/zweihander"},      	
         {"predicate":{"custom_model_data":982044},"model":"genesis:item/gear/royal_cleaver"}
