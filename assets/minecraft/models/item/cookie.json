@@ -7,6 +7,10 @@
     "overrides": [
         {"predicate":{"custom_model_data":982001},"model":"genesis:item/food/cake_slice"},
         {"predicate":{"custom_model_data":982002},"model":"genesis:item/food/carrot_cake"},
-        {"predicate":{"custom_model_data":982003},"model":"genesis:item/food/burnt_food"}
+        {"predicate":{"custom_model_data":982003},"model":"genesis:item/food/burnt_food"},
+        {"predicate":{"custom_model_data":982004},"model":"genesis:item/food/mana_cookie"},
+        {"predicate":{"custom_model_data":982005},"model":"genesis:item/food/enhanced_mana_cookie"},
+        {"predicate":{"custom_model_data":982006},"model":"genesis:item/food/enchanted_mana_cookie"},
+        {"predicate":{"custom_model_data":982007},"model":"genesis:item/food/bewitched_mana_cookie"}
     ]
 }
