@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "genesis:item/food/enchanted_mana_cookie"
+      "layer0": "genesis:item/food/auric_mana_cookie"
     }
 } 
