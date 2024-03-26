@@ -37,16 +37,18 @@
         {"predicate":{"custom_model_data":982031},"model":"genesis:item/gear/prisma_nova"},      	
         {"predicate":{"custom_model_data":982032},"model":"genesis:item/gear/vorpol"},      	
         {"predicate":{"custom_model_data":982033},"model":"genesis:item/gear/visharp"},      	
-        {"predicate":{"custom_model_data":982034},"model":"genesis:item/gear/vischerum"},      	
+        {"predicate":{"custom_model_data":982034},"model":"genesis:item/gear/vescherum"},      	
         {"predicate":{"custom_model_data":982035},"model":"genesis:item/gear/verdant_staff"},      	
         {"predicate":{"custom_model_data":982036},"model":"genesis:item/gear/verdant_masterstaff"},      	
         {"predicate":{"custom_model_data":982037},"model":"genesis:item/gear/verdant_sceptor"},      	
         {"predicate":{"custom_model_data":982038},"model":"genesis:item/gear/obsidian_blade"},      	
         {"predicate":{"custom_model_data":982039},"model":"genesis:item/gear/fading_dusk"},      	
         {"predicate":{"custom_model_data":982040},"model":"genesis:item/gear/vermillion_glove"},      	
-        {"predicate":{"custom_model_data":982041},"model":"genesis:item/gear/"},      	
+        {"predicate":{"custom_model_data":982041},"model":"genesis:item/gear/sickle"},      	
         {"predicate":{"custom_model_data":982042},"model":"genesis:item/gear/glaive"},      	
         {"predicate":{"custom_model_data":982043},"model":"genesis:item/gear/zweihander"},      	
-        {"predicate":{"custom_model_data":982044},"model":"genesis:item/gear/royal_cleaver"}
+        {"predicate":{"custom_model_data":982044},"model":"genesis:item/gear/royal_cleaver"},      	
+        {"predicate":{"custom_model_data":982045},"model":"genesis:item/gear/mineral_saber"},      	
+        {"predicate":{"custom_model_data":982046},"model":"genesis:item/gear/mithril_saber"}
     ]
 }
