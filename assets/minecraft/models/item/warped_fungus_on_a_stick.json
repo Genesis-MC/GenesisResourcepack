@@ -49,6 +49,9 @@
         {"predicate":{"custom_model_data":982043},"model":"genesis:item/gear/zweihander"},      	
         {"predicate":{"custom_model_data":982044},"model":"genesis:item/gear/royal_cleaver"},      	
         {"predicate":{"custom_model_data":982045},"model":"genesis:item/gear/mineral_saber"},      	
-        {"predicate":{"custom_model_data":982046},"model":"genesis:item/gear/mithril_saber"}
+        {"predicate":{"custom_model_data":982046},"model":"genesis:item/gear/mithril_saber"},      	
+        {"predicate":{"custom_model_data":982047},"model":"genesis:item/gear/cloudsail"},      	
+        {"predicate":{"custom_model_data":982048},"model":"genesis:item/gear/crystal_lens"},      	
+        {"predicate":{"custom_model_data":982049},"model":"genesis:item/gear/sceptor_of_the_crimson_egg"}
     ]
 }
