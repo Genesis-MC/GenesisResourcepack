@@ -52,6 +52,8 @@
         {"predicate":{"custom_model_data":982046},"model":"genesis:item/gear/mithril_saber"},      	
         {"predicate":{"custom_model_data":982047},"model":"genesis:item/gear/cloudsail"},      	
         {"predicate":{"custom_model_data":982048},"model":"genesis:item/gear/crystal_lens"},      	
-        {"predicate":{"custom_model_data":982049},"model":"genesis:item/gear/sceptor_of_the_crimson_egg"}
+        {"predicate":{"custom_model_data":982049},"model":"genesis:item/gear/sceptor_of_the_crimson_egg"},      	
+        {"predicate":{"custom_model_data":982050},"model":"genesis:item/gear/acolyte_blade"},      	
+        {"predicate":{"custom_model_data":982051},"model":"genesis:item/gear/asophogeny"}
     ]
 }
