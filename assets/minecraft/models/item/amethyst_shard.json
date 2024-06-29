@@ -31,6 +31,7 @@
         {"predicate":{"custom_model_data":982024},"model":"genesis:item/minerals/umbra_heart"},
         {"predicate":{"custom_model_data":982025},"model":"genesis:item/minerals/azurite"},
         {"predicate":{"custom_model_data":982026},"model":"genesis:item/minerals/imperial_rosestone"},
-        {"predicate":{"custom_model_data":982027},"model":"genesis:item/minerals/grape_agate"}
+        {"predicate":{"custom_model_data":982027},"model":"genesis:item/minerals/grape_agate"},
+        {"predicate":{"custom_model_data":982028},"model":"genesis:item/minerals/seraphinite"}
     ]
 }
