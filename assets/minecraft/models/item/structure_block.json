@@ -37,6 +37,7 @@
         {"predicate":{"custom_model_data":982034},"model":"genesis:item/ingredients/verdant_gem"},
         {"predicate":{"custom_model_data":982035},"model":"genesis:item/ingredients/metal_alloy"},
         {"predicate":{"custom_model_data":982036},"model":"genesis:item/ingredients/vermillion_gem"},
-        {"predicate":{"custom_model_data":982037},"model":"genesis:item/ingredients/shard_of_the_depths"}
+        {"predicate":{"custom_model_data":982037},"model":"genesis:item/ingredients/shard_of_the_depths"},
+        {"predicate":{"custom_model_data":982037},"model":"genesis:item/ingredients/mana_prism"}
     ]
 }
